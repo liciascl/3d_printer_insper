@@ -26,7 +26,7 @@ Agora vá ate a pasta example_configurations
 
 Copie o conteudo do arquivo Configuration do template escolhido, e cole na aba *Configuration* do Marlin.io
 ![cola_copia](img/cola_copia.png) 
-![copia_cola](img/copia_cola.png) 
+![copia_cola](img/copia_cola.PNG) 
 
 
 # Vamos para Configuração do código
